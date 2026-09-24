@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shahmasharin/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/shahmasharin/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/shahmasharin/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/shahmasharin/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [1528-shuffle-string](https://github.com/shahmasharin/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shahmasharin/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shahmasharin/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/shahmasharin/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
