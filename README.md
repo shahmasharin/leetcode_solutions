@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shahmasharin/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahmasharin/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/shahmasharin/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -80,4 +81,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
