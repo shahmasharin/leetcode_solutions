@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shahmasharin/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/shahmasharin/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shahmasharin/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/shahmasharin/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Array
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/shahmasharin/leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahmasharin/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/shahmasharin/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1528-shuffle-string](https://github.com/shahmasharin/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shahmasharin/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahmasharin/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/shahmasharin/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -61,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shahmasharin/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0461-hamming-distance](https://github.com/shahmasharin/leetcode_solutions/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahmasharin/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
@@ -82,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
