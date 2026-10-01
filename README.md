@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/shahmasharin/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahmasharin/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shahmasharin/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2427-number-of-common-factors](https://github.com/shahmasharin/leetcode_solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/shahmasharin/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Bit Manipulation
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/shahmasharin/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
