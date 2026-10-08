@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [1528-shuffle-string](https://github.com/shahmasharin/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shahmasharin/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
