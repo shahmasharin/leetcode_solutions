@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shahmasharin/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Array
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahmasharin/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1528-shuffle-string](https://github.com/shahmasharin/leetcode_solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/shahmasharin/leetcode_solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -133,4 +136,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/shahmasharin/leetcode_solutions/tree/main/2974-minimum-number-game/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/shahmasharin/leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
