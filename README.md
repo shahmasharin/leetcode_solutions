@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shahmasharin/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/shahmasharin/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/shahmasharin/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/shahmasharin/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/shahmasharin/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/shahmasharin/leetcode_solutions/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shahmasharin/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
